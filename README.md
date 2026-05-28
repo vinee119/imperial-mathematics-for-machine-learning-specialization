@@ -146,9 +146,9 @@ Visualization & Interactive Computing
 
 ---
 
-```text
 ## Repository Structure
 
+```text
 Mathematics for Machine Learning Specialization
 │
 ├── Certificates
