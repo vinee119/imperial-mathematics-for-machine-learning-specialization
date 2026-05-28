@@ -1,4 +1,4 @@
-Mathematics for Machine Learning Specialization
+# Mathematics for Machine Learning Specialization
 
 A structured repository documenting the completion of the Mathematics for Machine Learning Specialization offered by Imperial College London through Coursera.
 
@@ -14,7 +14,7 @@ with practical implementation using Python-based computational notebooks and mat
 
 ---
 
-About the Specialization
+## About the Specialization
 
 Mathematics forms the foundation of modern Machine Learning systems. Concepts such as optimization, dimensionality reduction, regression, neural network training, projections, eigenvector decomposition, and statistical transformations all rely heavily on mathematical reasoning.
 
@@ -30,7 +30,7 @@ The coursework emphasizes both conceptual understanding and practical computatio
 
 ---
 
-Courses Included
+## Courses Included
 
 1. Linear Algebra
 
@@ -81,7 +81,7 @@ Topics covered include:
 
 ---
 
-Skills Covered
+## Skills Covered
 
 Core Domains
 
@@ -114,7 +114,7 @@ Data & Computational Skills
 
 ---
 
-Tools & Technologies
+## Tools & Technologies
 
 Programming & Scientific Computing
 
@@ -138,7 +138,7 @@ Visualization & Interactive Computing
 
 ---
 
-Datasets Used
+## Datasets Used
 
 - MNIST Dataset
 - Olivetti Faces Dataset
@@ -146,7 +146,8 @@ Datasets Used
 
 ---
 
-Repository Structure
+```text
+## Repository Structure
 
 Mathematics for Machine Learning Specialization
 │
@@ -325,10 +326,11 @@ Mathematics for Machine Learning Specialization
         │   └── PCA.ipynb
         └── Steps of PCA
             └── Steps of PCA.pdf
+```
 
 ---
 
-Certificates
+## Certificates
 
 - Mathematics for Machine Learning Specialization
   https://www.coursera.org/account/accomplishments/specialization/C61WVYMC690V
@@ -344,7 +346,7 @@ Certificates
 
 ---
 
-Notes
+## Notes
 
 This repository contains:
 
@@ -357,7 +359,7 @@ The repository is intended to document mathematical foundations relevant to Mach
 
 ---
 
-Disclaimer
+## Disclaimer
 
 This repository is intended for educational, academic, and personal learning purposes.
 
